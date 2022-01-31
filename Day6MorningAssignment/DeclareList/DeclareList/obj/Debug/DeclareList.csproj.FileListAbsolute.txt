@@ -1,0 +1,8 @@
+D:\DotNetProjects\Day6MorningAssignment\DeclareList\DeclareList\obj\Debug\DeclareList.csproj.AssemblyReference.cache
+D:\DotNetProjects\Day6MorningAssignment\DeclareList\DeclareList\obj\Debug\DeclareList.csproj.SuggestedBindingRedirects.cache
+D:\DotNetProjects\Day6MorningAssignment\DeclareList\DeclareList\obj\Debug\DeclareList.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\Day6MorningAssignment\DeclareList\DeclareList\bin\Debug\DeclareList.exe.config
+D:\DotNetProjects\Day6MorningAssignment\DeclareList\DeclareList\bin\Debug\DeclareList.exe
+D:\DotNetProjects\Day6MorningAssignment\DeclareList\DeclareList\bin\Debug\DeclareList.pdb
+D:\DotNetProjects\Day6MorningAssignment\DeclareList\DeclareList\obj\Debug\DeclareList.exe
+D:\DotNetProjects\Day6MorningAssignment\DeclareList\DeclareList\obj\Debug\DeclareList.pdb

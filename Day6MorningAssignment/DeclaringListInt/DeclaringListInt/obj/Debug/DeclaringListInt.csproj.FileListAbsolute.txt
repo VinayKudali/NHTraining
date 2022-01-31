@@ -1,0 +1,8 @@
+D:\DotNetProjects\Day6MorningAssignment\DeclaringListInt\DeclaringListInt\bin\Debug\DeclaringListInt.exe.config
+D:\DotNetProjects\Day6MorningAssignment\DeclaringListInt\DeclaringListInt\bin\Debug\DeclaringListInt.exe
+D:\DotNetProjects\Day6MorningAssignment\DeclaringListInt\DeclaringListInt\bin\Debug\DeclaringListInt.pdb
+D:\DotNetProjects\Day6MorningAssignment\DeclaringListInt\DeclaringListInt\obj\Debug\DeclaringListInt.csproj.AssemblyReference.cache
+D:\DotNetProjects\Day6MorningAssignment\DeclaringListInt\DeclaringListInt\obj\Debug\DeclaringListInt.csproj.SuggestedBindingRedirects.cache
+D:\DotNetProjects\Day6MorningAssignment\DeclaringListInt\DeclaringListInt\obj\Debug\DeclaringListInt.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\Day6MorningAssignment\DeclaringListInt\DeclaringListInt\obj\Debug\DeclaringListInt.exe
+D:\DotNetProjects\Day6MorningAssignment\DeclaringListInt\DeclaringListInt\obj\Debug\DeclaringListInt.pdb

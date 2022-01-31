@@ -1,0 +1,8 @@
+D:\DotNetProjects\Day6MorningAssignment\DeclaringListString\DeclaringListString\bin\Debug\DeclaringListString.exe.config
+D:\DotNetProjects\Day6MorningAssignment\DeclaringListString\DeclaringListString\bin\Debug\DeclaringListString.exe
+D:\DotNetProjects\Day6MorningAssignment\DeclaringListString\DeclaringListString\bin\Debug\DeclaringListString.pdb
+D:\DotNetProjects\Day6MorningAssignment\DeclaringListString\DeclaringListString\obj\Debug\DeclaringListString.csproj.AssemblyReference.cache
+D:\DotNetProjects\Day6MorningAssignment\DeclaringListString\DeclaringListString\obj\Debug\DeclaringListString.csproj.SuggestedBindingRedirects.cache
+D:\DotNetProjects\Day6MorningAssignment\DeclaringListString\DeclaringListString\obj\Debug\DeclaringListString.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\Day6MorningAssignment\DeclaringListString\DeclaringListString\obj\Debug\DeclaringListString.exe
+D:\DotNetProjects\Day6MorningAssignment\DeclaringListString\DeclaringListString\obj\Debug\DeclaringListString.pdb
