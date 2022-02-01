@@ -1,8 +1,0 @@
-D:\DotNetProjects\Day6MorningAssignment\DeclareArrayList\DeclareArrayList\bin\Debug\DeclareArrayList.exe.config
-D:\DotNetProjects\Day6MorningAssignment\DeclareArrayList\DeclareArrayList\bin\Debug\DeclareArrayList.exe
-D:\DotNetProjects\Day6MorningAssignment\DeclareArrayList\DeclareArrayList\bin\Debug\DeclareArrayList.pdb
-D:\DotNetProjects\Day6MorningAssignment\DeclareArrayList\DeclareArrayList\obj\Debug\DeclareArrayList.csproj.AssemblyReference.cache
-D:\DotNetProjects\Day6MorningAssignment\DeclareArrayList\DeclareArrayList\obj\Debug\DeclareArrayList.csproj.SuggestedBindingRedirects.cache
-D:\DotNetProjects\Day6MorningAssignment\DeclareArrayList\DeclareArrayList\obj\Debug\DeclareArrayList.csproj.CoreCompileInputs.cache
-D:\DotNetProjects\Day6MorningAssignment\DeclareArrayList\DeclareArrayList\obj\Debug\DeclareArrayList.exe
-D:\DotNetProjects\Day6MorningAssignment\DeclareArrayList\DeclareArrayList\obj\Debug\DeclareArrayList.pdb
