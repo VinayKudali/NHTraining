@@ -1,0 +1,7 @@
+D:\DotNetProjects\Day8Morning Assignments by Vinay\Day8project2\Day8project2\bin\Debug\Day8project2.exe.config
+D:\DotNetProjects\Day8Morning Assignments by Vinay\Day8project2\Day8project2\bin\Debug\Day8project2.exe
+D:\DotNetProjects\Day8Morning Assignments by Vinay\Day8project2\Day8project2\bin\Debug\Day8project2.pdb
+D:\DotNetProjects\Day8Morning Assignments by Vinay\Day8project2\Day8project2\obj\Debug\Day8project2.csproj.SuggestedBindingRedirects.cache
+D:\DotNetProjects\Day8Morning Assignments by Vinay\Day8project2\Day8project2\obj\Debug\Day8project2.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\Day8Morning Assignments by Vinay\Day8project2\Day8project2\obj\Debug\Day8project2.exe
+D:\DotNetProjects\Day8Morning Assignments by Vinay\Day8project2\Day8project2\obj\Debug\Day8project2.pdb
