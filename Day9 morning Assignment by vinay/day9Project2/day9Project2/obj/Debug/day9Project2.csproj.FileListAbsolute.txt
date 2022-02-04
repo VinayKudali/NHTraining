@@ -1,0 +1,8 @@
+D:\DotNetProjects\Day9 morning Assignment by vinay\day9Project2\day9Project2\bin\Debug\day9Project2.exe.config
+D:\DotNetProjects\Day9 morning Assignment by vinay\day9Project2\day9Project2\bin\Debug\day9Project2.exe
+D:\DotNetProjects\Day9 morning Assignment by vinay\day9Project2\day9Project2\bin\Debug\day9Project2.pdb
+D:\DotNetProjects\Day9 morning Assignment by vinay\day9Project2\day9Project2\obj\Debug\day9Project2.csproj.AssemblyReference.cache
+D:\DotNetProjects\Day9 morning Assignment by vinay\day9Project2\day9Project2\obj\Debug\day9Project2.csproj.SuggestedBindingRedirects.cache
+D:\DotNetProjects\Day9 morning Assignment by vinay\day9Project2\day9Project2\obj\Debug\day9Project2.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\Day9 morning Assignment by vinay\day9Project2\day9Project2\obj\Debug\day9Project2.exe
+D:\DotNetProjects\Day9 morning Assignment by vinay\day9Project2\day9Project2\obj\Debug\day9Project2.pdb

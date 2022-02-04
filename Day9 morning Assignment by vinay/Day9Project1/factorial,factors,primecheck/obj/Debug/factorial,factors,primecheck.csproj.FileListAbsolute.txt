@@ -1,0 +1,8 @@
+D:\DotNetProjects\Day9 morning Assignment by vinay\factorial,factors,primecheck\factorial,factors,primecheck\bin\Debug\factorial,factors,primecheck.exe.config
+D:\DotNetProjects\Day9 morning Assignment by vinay\factorial,factors,primecheck\factorial,factors,primecheck\bin\Debug\factorial,factors,primecheck.exe
+D:\DotNetProjects\Day9 morning Assignment by vinay\factorial,factors,primecheck\factorial,factors,primecheck\bin\Debug\factorial,factors,primecheck.pdb
+D:\DotNetProjects\Day9 morning Assignment by vinay\factorial,factors,primecheck\factorial,factors,primecheck\obj\Debug\factorial,factors,primecheck.csproj.AssemblyReference.cache
+D:\DotNetProjects\Day9 morning Assignment by vinay\factorial,factors,primecheck\factorial,factors,primecheck\obj\Debug\factorial,factors,primecheck.csproj.SuggestedBindingRedirects.cache
+D:\DotNetProjects\Day9 morning Assignment by vinay\factorial,factors,primecheck\factorial,factors,primecheck\obj\Debug\factorial,factors,primecheck.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\Day9 morning Assignment by vinay\factorial,factors,primecheck\factorial,factors,primecheck\obj\Debug\factorial,factors,primecheck.exe
+D:\DotNetProjects\Day9 morning Assignment by vinay\factorial,factors,primecheck\factorial,factors,primecheck\obj\Debug\factorial,factors,primecheck.pdb

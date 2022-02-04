@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62c96f16-530f-423a-94e9-517b59cba606": {
+      "ProjectGuid": "62c96f16-530f-423a-94e9-517b59cba606",
+      "DisplayName": "factorial,factors,primecheck",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
