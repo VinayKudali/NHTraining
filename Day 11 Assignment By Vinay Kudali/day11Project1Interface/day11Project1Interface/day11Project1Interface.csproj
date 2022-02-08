@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{516E6183-42BF-404D-8FBA-E0D0B8C0C923}</ProjectGuid>
+    <ProjectGuid>{25C121B5-48DE-4BD3-8266-3C6F557A5696}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>day10project1abstractclass</RootNamespace>
-    <AssemblyName>day10project1abstractclass</AssemblyName>
+    <RootNamespace>day11Project1Interface</RootNamespace>
+    <AssemblyName>day11Project1Interface</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

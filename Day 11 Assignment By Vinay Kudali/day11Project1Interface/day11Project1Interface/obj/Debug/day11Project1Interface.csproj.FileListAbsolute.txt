@@ -1,0 +1,8 @@
+D:\DotNetProjects\Day 11 Assignment By Vinay Kudali\day11Project1Interface\day11Project1Interface\bin\Debug\day11Project1Interface.exe.config
+D:\DotNetProjects\Day 11 Assignment By Vinay Kudali\day11Project1Interface\day11Project1Interface\bin\Debug\day11Project1Interface.exe
+D:\DotNetProjects\Day 11 Assignment By Vinay Kudali\day11Project1Interface\day11Project1Interface\bin\Debug\day11Project1Interface.pdb
+D:\DotNetProjects\Day 11 Assignment By Vinay Kudali\day11Project1Interface\day11Project1Interface\obj\Debug\day11Project1Interface.csproj.AssemblyReference.cache
+D:\DotNetProjects\Day 11 Assignment By Vinay Kudali\day11Project1Interface\day11Project1Interface\obj\Debug\day11Project1Interface.csproj.SuggestedBindingRedirects.cache
+D:\DotNetProjects\Day 11 Assignment By Vinay Kudali\day11Project1Interface\day11Project1Interface\obj\Debug\day11Project1Interface.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\Day 11 Assignment By Vinay Kudali\day11Project1Interface\day11Project1Interface\obj\Debug\day11Project1Interface.exe
+D:\DotNetProjects\Day 11 Assignment By Vinay Kudali\day11Project1Interface\day11Project1Interface\obj\Debug\day11Project1Interface.pdb
