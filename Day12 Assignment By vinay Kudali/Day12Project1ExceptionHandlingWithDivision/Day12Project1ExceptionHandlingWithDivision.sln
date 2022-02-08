@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day12Project1ExceptionHandlingWithDivision", "Day12Project1ExceptionHandlingWithDivision\Day12Project1ExceptionHandlingWithDivision.csproj", "{C622F0F0-BB6C-4CFA-B757-4E916439211B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C622F0F0-BB6C-4CFA-B757-4E916439211B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C622F0F0-BB6C-4CFA-B757-4E916439211B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C622F0F0-BB6C-4CFA-B757-4E916439211B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C622F0F0-BB6C-4CFA-B757-4E916439211B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEBE3C55-12CA-49C8-BB7C-BE6ACBE29359}
+	EndGlobalSection
+EndGlobal

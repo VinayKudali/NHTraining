@@ -1,0 +1,8 @@
+D:\DotNetProjects\Day12 Assignment By vinay Kudali\Day12projectCompailation Error 1\Day12projectCompailation Error 1\bin\Debug\Day12projectCompailation Error 1.exe.config
+D:\DotNetProjects\Day12 Assignment By vinay Kudali\Day12projectCompailation Error 1\Day12projectCompailation Error 1\bin\Debug\Day12projectCompailation Error 1.exe
+D:\DotNetProjects\Day12 Assignment By vinay Kudali\Day12projectCompailation Error 1\Day12projectCompailation Error 1\bin\Debug\Day12projectCompailation Error 1.pdb
+D:\DotNetProjects\Day12 Assignment By vinay Kudali\Day12projectCompailation Error 1\Day12projectCompailation Error 1\obj\Debug\Day12projectCompailation Error 1.csproj.AssemblyReference.cache
+D:\DotNetProjects\Day12 Assignment By vinay Kudali\Day12projectCompailation Error 1\Day12projectCompailation Error 1\obj\Debug\Day12projectCompailation Error 1.csproj.SuggestedBindingRedirects.cache
+D:\DotNetProjects\Day12 Assignment By vinay Kudali\Day12projectCompailation Error 1\Day12projectCompailation Error 1\obj\Debug\Day12projectCompailation Error 1.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\Day12 Assignment By vinay Kudali\Day12projectCompailation Error 1\Day12projectCompailation Error 1\obj\Debug\Day12projectCompailation Error 1.exe
+D:\DotNetProjects\Day12 Assignment By vinay Kudali\Day12projectCompailation Error 1\Day12projectCompailation Error 1\obj\Debug\Day12projectCompailation Error 1.pdb
