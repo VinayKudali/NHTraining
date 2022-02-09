@@ -1,0 +1,8 @@
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project2-DArrayWithTrace\Day13Project2-DArrayWithTrace\bin\Debug\Day13Project2-DArrayWithTrace.exe.config
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project2-DArrayWithTrace\Day13Project2-DArrayWithTrace\bin\Debug\Day13Project2-DArrayWithTrace.exe
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project2-DArrayWithTrace\Day13Project2-DArrayWithTrace\bin\Debug\Day13Project2-DArrayWithTrace.pdb
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project2-DArrayWithTrace\Day13Project2-DArrayWithTrace\obj\Debug\Day13Project2-DArrayWithTrace.csproj.SuggestedBindingRedirects.cache
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project2-DArrayWithTrace\Day13Project2-DArrayWithTrace\obj\Debug\Day13Project2-DArrayWithTrace.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project2-DArrayWithTrace\Day13Project2-DArrayWithTrace\obj\Debug\Day13Project2-DArrayWithTrace.exe
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project2-DArrayWithTrace\Day13Project2-DArrayWithTrace\obj\Debug\Day13Project2-DArrayWithTrace.pdb
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project2-DArrayWithTrace\Day13Project2-DArrayWithTrace\obj\Debug\Day13Project2-DArrayWithTrace.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13ProductOfMatrices\Day13ProductOfMatrices\bin\Debug\Day13ProductOfMatrices.exe.config
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13ProductOfMatrices\Day13ProductOfMatrices\bin\Debug\Day13ProductOfMatrices.exe
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13ProductOfMatrices\Day13ProductOfMatrices\bin\Debug\Day13ProductOfMatrices.pdb
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13ProductOfMatrices\Day13ProductOfMatrices\obj\Debug\Day13ProductOfMatrices.csproj.SuggestedBindingRedirects.cache
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13ProductOfMatrices\Day13ProductOfMatrices\obj\Debug\Day13ProductOfMatrices.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13ProductOfMatrices\Day13ProductOfMatrices\obj\Debug\Day13ProductOfMatrices.exe
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13ProductOfMatrices\Day13ProductOfMatrices\obj\Debug\Day13ProductOfMatrices.pdb

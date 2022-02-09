@@ -1,0 +1,8 @@
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13project8JaggedArray\Day13project8JaggedArray\bin\Debug\Day13project8JaggedArray.exe.config
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13project8JaggedArray\Day13project8JaggedArray\bin\Debug\Day13project8JaggedArray.exe
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13project8JaggedArray\Day13project8JaggedArray\bin\Debug\Day13project8JaggedArray.pdb
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13project8JaggedArray\Day13project8JaggedArray\obj\Debug\Day13project8JaggedArray.csproj.AssemblyReference.cache
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13project8JaggedArray\Day13project8JaggedArray\obj\Debug\Day13project8JaggedArray.csproj.SuggestedBindingRedirects.cache
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13project8JaggedArray\Day13project8JaggedArray\obj\Debug\Day13project8JaggedArray.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13project8JaggedArray\Day13project8JaggedArray\obj\Debug\Day13project8JaggedArray.exe
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13project8JaggedArray\Day13project8JaggedArray\obj\Debug\Day13project8JaggedArray.pdb

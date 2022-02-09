@@ -1,0 +1,8 @@
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project10Recursion\Day13Project10Recursion\bin\Debug\Day13Project10Recursion.exe.config
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project10Recursion\Day13Project10Recursion\bin\Debug\Day13Project10Recursion.exe
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project10Recursion\Day13Project10Recursion\bin\Debug\Day13Project10Recursion.pdb
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project10Recursion\Day13Project10Recursion\obj\Debug\Day13Project10Recursion.csproj.AssemblyReference.cache
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project10Recursion\Day13Project10Recursion\obj\Debug\Day13Project10Recursion.csproj.SuggestedBindingRedirects.cache
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project10Recursion\Day13Project10Recursion\obj\Debug\Day13Project10Recursion.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project10Recursion\Day13Project10Recursion\obj\Debug\Day13Project10Recursion.exe
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project10Recursion\Day13Project10Recursion\obj\Debug\Day13Project10Recursion.pdb

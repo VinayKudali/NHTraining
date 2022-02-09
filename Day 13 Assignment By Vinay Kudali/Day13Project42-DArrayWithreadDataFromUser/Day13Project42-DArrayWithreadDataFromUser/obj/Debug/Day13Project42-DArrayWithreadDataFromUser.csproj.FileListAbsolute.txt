@@ -1,0 +1,8 @@
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project42-DArrayWithreadDataFromUser\Day13Project42-DArrayWithreadDataFromUser\bin\Debug\Day13Project42-DArrayWithreadDataFromUser.exe.config
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project42-DArrayWithreadDataFromUser\Day13Project42-DArrayWithreadDataFromUser\bin\Debug\Day13Project42-DArrayWithreadDataFromUser.exe
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project42-DArrayWithreadDataFromUser\Day13Project42-DArrayWithreadDataFromUser\bin\Debug\Day13Project42-DArrayWithreadDataFromUser.pdb
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project42-DArrayWithreadDataFromUser\Day13Project42-DArrayWithreadDataFromUser\obj\Debug\Day13Project42-DArrayWithreadDataFromUser.csproj.AssemblyReference.cache
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project42-DArrayWithreadDataFromUser\Day13Project42-DArrayWithreadDataFromUser\obj\Debug\Day13Project42-DArrayWithreadDataFromUser.csproj.SuggestedBindingRedirects.cache
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project42-DArrayWithreadDataFromUser\Day13Project42-DArrayWithreadDataFromUser\obj\Debug\Day13Project42-DArrayWithreadDataFromUser.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project42-DArrayWithreadDataFromUser\Day13Project42-DArrayWithreadDataFromUser\obj\Debug\Day13Project42-DArrayWithreadDataFromUser.exe
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day13Project42-DArrayWithreadDataFromUser\Day13Project42-DArrayWithreadDataFromUser\obj\Debug\Day13Project42-DArrayWithreadDataFromUser.pdb

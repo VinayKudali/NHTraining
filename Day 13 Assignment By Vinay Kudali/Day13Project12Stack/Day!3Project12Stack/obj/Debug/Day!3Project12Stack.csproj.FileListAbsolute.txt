@@ -1,0 +1,7 @@
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day!3Project12Stack\Day!3Project12Stack\bin\Debug\Day!3Project12Stack.exe.config
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day!3Project12Stack\Day!3Project12Stack\bin\Debug\Day!3Project12Stack.exe
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day!3Project12Stack\Day!3Project12Stack\bin\Debug\Day!3Project12Stack.pdb
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day!3Project12Stack\Day!3Project12Stack\obj\Debug\Day!3Project12Stack.csproj.SuggestedBindingRedirects.cache
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day!3Project12Stack\Day!3Project12Stack\obj\Debug\Day!3Project12Stack.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day!3Project12Stack\Day!3Project12Stack\obj\Debug\Day!3Project12Stack.exe
+D:\DotNetProjects\Day 13 Assignment By Vinay Kudali\Day!3Project12Stack\Day!3Project12Stack\obj\Debug\Day!3Project12Stack.pdb
