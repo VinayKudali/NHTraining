@@ -1,0 +1,8 @@
+D:\DotNetProjects\Day 14 Assignment by Vinay Kudali\Day14Project2NormalProperties\Day14Project2NormalProperties\bin\Debug\Day14Project2NormalProperties.exe.config
+D:\DotNetProjects\Day 14 Assignment by Vinay Kudali\Day14Project2NormalProperties\Day14Project2NormalProperties\bin\Debug\Day14Project2NormalProperties.exe
+D:\DotNetProjects\Day 14 Assignment by Vinay Kudali\Day14Project2NormalProperties\Day14Project2NormalProperties\bin\Debug\Day14Project2NormalProperties.pdb
+D:\DotNetProjects\Day 14 Assignment by Vinay Kudali\Day14Project2NormalProperties\Day14Project2NormalProperties\obj\Debug\Day14Project2NormalProperties.csproj.AssemblyReference.cache
+D:\DotNetProjects\Day 14 Assignment by Vinay Kudali\Day14Project2NormalProperties\Day14Project2NormalProperties\obj\Debug\Day14Project2NormalProperties.csproj.SuggestedBindingRedirects.cache
+D:\DotNetProjects\Day 14 Assignment by Vinay Kudali\Day14Project2NormalProperties\Day14Project2NormalProperties\obj\Debug\Day14Project2NormalProperties.csproj.CoreCompileInputs.cache
+D:\DotNetProjects\Day 14 Assignment by Vinay Kudali\Day14Project2NormalProperties\Day14Project2NormalProperties\obj\Debug\Day14Project2NormalProperties.exe
+D:\DotNetProjects\Day 14 Assignment by Vinay Kudali\Day14Project2NormalProperties\Day14Project2NormalProperties\obj\Debug\Day14Project2NormalProperties.pdb
