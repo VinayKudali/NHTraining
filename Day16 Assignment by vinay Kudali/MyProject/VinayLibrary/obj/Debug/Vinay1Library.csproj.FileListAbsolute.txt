@@ -1,0 +1,5 @@
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\VinayLibrary\bin\Debug\VinayLibrary.dll
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\VinayLibrary\bin\Debug\VinayLibrary.pdb
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\VinayLibrary\obj\Debug\Vinay1Library.csproj.CoreCompileInputs.cache
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\VinayLibrary\obj\Debug\VinayLibrary.dll
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\VinayLibrary\obj\Debug\VinayLibrary.pdb

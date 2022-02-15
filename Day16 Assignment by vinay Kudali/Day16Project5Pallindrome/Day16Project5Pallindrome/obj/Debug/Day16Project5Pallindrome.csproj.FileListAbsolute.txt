@@ -1,0 +1,8 @@
+D:\NHTraining\Day16 Assignment by vinay Kudali\Day16Project5Pallindrome\Day16Project5Pallindrome\bin\Debug\Day16Project5Pallindrome.exe.config
+D:\NHTraining\Day16 Assignment by vinay Kudali\Day16Project5Pallindrome\Day16Project5Pallindrome\bin\Debug\Day16Project5Pallindrome.exe
+D:\NHTraining\Day16 Assignment by vinay Kudali\Day16Project5Pallindrome\Day16Project5Pallindrome\bin\Debug\Day16Project5Pallindrome.pdb
+D:\NHTraining\Day16 Assignment by vinay Kudali\Day16Project5Pallindrome\Day16Project5Pallindrome\obj\Debug\Day16Project5Pallindrome.csproj.AssemblyReference.cache
+D:\NHTraining\Day16 Assignment by vinay Kudali\Day16Project5Pallindrome\Day16Project5Pallindrome\obj\Debug\Day16Project5Pallindrome.csproj.SuggestedBindingRedirects.cache
+D:\NHTraining\Day16 Assignment by vinay Kudali\Day16Project5Pallindrome\Day16Project5Pallindrome\obj\Debug\Day16Project5Pallindrome.csproj.CoreCompileInputs.cache
+D:\NHTraining\Day16 Assignment by vinay Kudali\Day16Project5Pallindrome\Day16Project5Pallindrome\obj\Debug\Day16Project5Pallindrome.exe
+D:\NHTraining\Day16 Assignment by vinay Kudali\Day16Project5Pallindrome\Day16Project5Pallindrome\obj\Debug\Day16Project5Pallindrome.pdb

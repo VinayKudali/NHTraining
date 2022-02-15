@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7d5ce1c1-a276-4e6a-bf31-29c518bf8715": {
+      "ProjectGuid": "7d5ce1c1-a276-4e6a-bf31-29c518bf8715",
+      "DisplayName": "Vinay1Library",
+      "ColorIndex": 0
+    },
+    "7904ac61-b014-45fe-8c94-2b7572bb5472": {
+      "ProjectGuid": "7904ac61-b014-45fe-8c94-2b7572bb5472",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 1
+    },
+    "0e9da72e-53f8-4f95-a068-85bcb566775b": {
+      "ProjectGuid": "0e9da72e-53f8-4f95-a068-85bcb566775b",
+      "DisplayName": "Clientapp",
+      "ColorIndex": 2
+    },
+    "f9caa440-a73b-40d1-bfe2-5f2f9c7eb9db": {
+      "ProjectGuid": "f9caa440-a73b-40d1-bfe2-5f2f9c7eb9db",
+      "DisplayName": "Vinay1Library",
+      "ColorIndex": 3
+    },
+    "ae0fe805-cd1e-47a4-ba3b-ff468aa4a727": {
+      "ProjectGuid": "ae0fe805-cd1e-47a4-ba3b-ff468aa4a727",
+      "DisplayName": "WinApp",
+      "ColorIndex": 4
+    },
+    "afe9aae3-9c4a-4edd-85fa-8f76bb2de94f": {
+      "ProjectGuid": "afe9aae3-9c4a-4edd-85fa-8f76bb2de94f",
+      "DisplayName": "WindowApp",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

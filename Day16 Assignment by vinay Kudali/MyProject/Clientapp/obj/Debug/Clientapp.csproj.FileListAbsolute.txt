@@ -1,0 +1,11 @@
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\bin\Debug\Clientapp.exe.config
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\bin\Debug\Clientapp.exe
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\bin\Debug\Clientapp.pdb
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\obj\Debug\Clientapp.csproj.SuggestedBindingRedirects.cache
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\obj\Debug\Clientapp.csproj.CoreCompileInputs.cache
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\obj\Debug\Clientapp.exe
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\obj\Debug\Clientapp.pdb
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\bin\Debug\PublicLibrary.dll
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\bin\Debug\Vinay1Library.dll
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\obj\Debug\Clientapp.csproj.CopyComplete
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\obj\Debug\Clientapp.csproj.AssemblyReference.cache

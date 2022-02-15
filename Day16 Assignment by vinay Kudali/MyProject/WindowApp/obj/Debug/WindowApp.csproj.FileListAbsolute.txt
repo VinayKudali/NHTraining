@@ -1,0 +1,16 @@
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\WindowApp\bin\Debug\WindowApp.exe.config
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\WindowApp\bin\Debug\WindowApp.exe
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\WindowApp\bin\Debug\WindowApp.pdb
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\WindowApp\bin\Debug\PublicLibrary.dll
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\WindowApp\bin\Debug\Vinay1Library.dll
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\WindowApp\bin\Debug\PublicLibrary.pdb
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\WindowApp\bin\Debug\Vinay1Library.pdb
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\WindowApp\obj\Debug\WindowApp.csproj.AssemblyReference.cache
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\WindowApp\obj\Debug\WindowApp.csproj.SuggestedBindingRedirects.cache
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\WindowApp\obj\Debug\WindowApp.Form1.resources
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\WindowApp\obj\Debug\WindowApp.Properties.Resources.resources
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\WindowApp\obj\Debug\WindowApp.csproj.GenerateResource.cache
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\WindowApp\obj\Debug\WindowApp.csproj.CoreCompileInputs.cache
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\WindowApp\obj\Debug\WindowApp.csproj.CopyComplete
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\WindowApp\obj\Debug\WindowApp.exe
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\WindowApp\obj\Debug\WindowApp.pdb
