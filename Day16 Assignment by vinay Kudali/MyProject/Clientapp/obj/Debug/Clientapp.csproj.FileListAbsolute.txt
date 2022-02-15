@@ -9,3 +9,5 @@ D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\bin\Debug\Pub
 D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\bin\Debug\Vinay1Library.dll
 D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\obj\Debug\Clientapp.csproj.CopyComplete
 D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\obj\Debug\Clientapp.csproj.AssemblyReference.cache
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\bin\Debug\PublicLibrary.pdb
+D:\NHTraining\Day16 Assignment by vinay Kudali\MyProject\Clientapp\bin\Debug\Vinay1Library.pdb

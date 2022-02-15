@@ -10,15 +10,15 @@ using PublicLibrary;
 namespace Clientapp
 {
     //Author: Vinay Kudali
-    //Purpose: Windows
+    //Purpose: Windows Application
 
     public class Program
     {
         static void Main(string[] args)
         {
-            Mathematics m=new Mathematics();
-            m.Addition();
-            m.Subtraction();
+            Console.WriteLine( Mathematics.Addition(7,8));
+            Console.WriteLine( Mathematics.Subtraction(9,7));
+            Console.WriteLine(Mathematics.Mul(6,2));
             Physics p = new Physics();
             Console.WriteLine(p.Velocity(7, 9));
 

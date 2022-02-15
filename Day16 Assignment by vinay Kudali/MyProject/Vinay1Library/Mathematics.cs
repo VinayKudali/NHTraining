@@ -8,18 +8,16 @@ namespace Vinay1Library
 {
     //Author: Vinay Kudali
     //purpose: Windows application
-    public class Mathematics
+    public static partial class Mathematics
     {
-        int a = 5;
-        int b = 4;
-        public static int n;
+        
 
-        public void Addition()
+        public static int Addition(int a, int b)
         {
-            Console.WriteLine(a+b);
+            return a+b;
         }
 
-        public int Subtraction()
+        public static int Subtraction(int a, int b)
         {
             return a-b;
         }
