@@ -1,0 +1,2 @@
+D:\Day 17 Assignment by Vinay Kudali\VinayKudaliLibrary\PublicDerived\obj\Debug\PublicDerived.csproj.AssemblyReference.cache
+D:\Day 17 Assignment by Vinay Kudali\VinayKudaliLibrary\PublicDerived\obj\Debug\PublicDerived.csproj.CoreCompileInputs.cache
