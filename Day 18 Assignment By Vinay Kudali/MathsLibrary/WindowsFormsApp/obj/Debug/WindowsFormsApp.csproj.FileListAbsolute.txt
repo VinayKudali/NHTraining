@@ -1,0 +1,14 @@
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\WindowsFormsApp\bin\Debug\MathsLibrary.dll
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\WindowsFormsApp\bin\Debug\MathsLibrary.pdb
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb

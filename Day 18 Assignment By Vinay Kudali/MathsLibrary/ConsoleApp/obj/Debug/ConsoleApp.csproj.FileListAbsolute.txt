@@ -1,0 +1,11 @@
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\ConsoleApp\bin\Debug\MathsLibrary.dll
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\ConsoleApp\bin\Debug\MathsLibrary.pdb
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\ConsoleApp\obj\Debug\ConsoleApp.pdb

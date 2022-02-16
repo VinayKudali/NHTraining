@@ -1,0 +1,5 @@
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\MathsLibrary\bin\Debug\MathsLibrary.dll
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\MathsLibrary\bin\Debug\MathsLibrary.pdb
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.csproj.CoreCompileInputs.cache
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.dll
+D:\Day 18 Assignment By Vinay Kudali\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.pdb
