@@ -1,0 +1,8 @@
+D:\Day 19 Assignment By Vinay Kudali\Day20AssignmentByVInayKudali\Day20AssignmentByVInayKudali\bin\Debug\Day20AssignmentByVInayKudali.exe.config
+D:\Day 19 Assignment By Vinay Kudali\Day20AssignmentByVInayKudali\Day20AssignmentByVInayKudali\bin\Debug\Day20AssignmentByVInayKudali.exe
+D:\Day 19 Assignment By Vinay Kudali\Day20AssignmentByVInayKudali\Day20AssignmentByVInayKudali\bin\Debug\Day20AssignmentByVInayKudali.pdb
+D:\Day 19 Assignment By Vinay Kudali\Day20AssignmentByVInayKudali\Day20AssignmentByVInayKudali\obj\Debug\Day20AssignmentByVInayKudali.csproj.AssemblyReference.cache
+D:\Day 19 Assignment By Vinay Kudali\Day20AssignmentByVInayKudali\Day20AssignmentByVInayKudali\obj\Debug\Day20AssignmentByVInayKudali.csproj.SuggestedBindingRedirects.cache
+D:\Day 19 Assignment By Vinay Kudali\Day20AssignmentByVInayKudali\Day20AssignmentByVInayKudali\obj\Debug\Day20AssignmentByVInayKudali.csproj.CoreCompileInputs.cache
+D:\Day 19 Assignment By Vinay Kudali\Day20AssignmentByVInayKudali\Day20AssignmentByVInayKudali\obj\Debug\Day20AssignmentByVInayKudali.exe
+D:\Day 19 Assignment By Vinay Kudali\Day20AssignmentByVInayKudali\Day20AssignmentByVInayKudali\obj\Debug\Day20AssignmentByVInayKudali.pdb

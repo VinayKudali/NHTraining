@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e8943e7e-06ff-448a-9780-6cc985d5ade2": {
+      "ProjectGuid": "e8943e7e-06ff-448a-9780-6cc985d5ade2",
+      "DisplayName": "MathsLibrary",
+      "ColorIndex": 0
+    },
+    "786dc25f-2853-49a7-ac8f-e15cfedd3bd4": {
+      "ProjectGuid": "786dc25f-2853-49a7-ac8f-e15cfedd3bd4",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 1
+    },
+    "f292d960-36e8-448d-97d1-516757da5919": {
+      "ProjectGuid": "f292d960-36e8-448d-97d1-516757da5919",
+      "DisplayName": "WindowsFormsApp",
+      "ColorIndex": 2
+    },
+    "369eaaf8-371f-46d7-97a1-90b8c95006ee": {
+      "ProjectGuid": "369eaaf8-371f-46d7-97a1-90b8c95006ee",
+      "DisplayName": "MathsLibraryTests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

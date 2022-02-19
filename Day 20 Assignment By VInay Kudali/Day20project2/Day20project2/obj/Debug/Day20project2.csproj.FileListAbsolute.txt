@@ -1,0 +1,8 @@
+D:\Day 20 Assignment By VInay Kudali\Day20project2\Day20project2\bin\Debug\Day20project2.exe.config
+D:\Day 20 Assignment By VInay Kudali\Day20project2\Day20project2\bin\Debug\Day20project2.exe
+D:\Day 20 Assignment By VInay Kudali\Day20project2\Day20project2\bin\Debug\Day20project2.pdb
+D:\Day 20 Assignment By VInay Kudali\Day20project2\Day20project2\obj\Debug\Day20project2.csproj.AssemblyReference.cache
+D:\Day 20 Assignment By VInay Kudali\Day20project2\Day20project2\obj\Debug\Day20project2.csproj.SuggestedBindingRedirects.cache
+D:\Day 20 Assignment By VInay Kudali\Day20project2\Day20project2\obj\Debug\Day20project2.csproj.CoreCompileInputs.cache
+D:\Day 20 Assignment By VInay Kudali\Day20project2\Day20project2\obj\Debug\Day20project2.exe
+D:\Day 20 Assignment By VInay Kudali\Day20project2\Day20project2\obj\Debug\Day20project2.pdb

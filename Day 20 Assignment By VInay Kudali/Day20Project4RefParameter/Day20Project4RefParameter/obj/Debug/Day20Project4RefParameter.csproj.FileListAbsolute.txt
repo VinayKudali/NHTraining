@@ -1,0 +1,7 @@
+D:\Day 20 Assignment By VInay Kudali\Day20Project4RefParameter\Day20Project4RefParameter\bin\Debug\Day20Project4RefParameter.exe.config
+D:\Day 20 Assignment By VInay Kudali\Day20Project4RefParameter\Day20Project4RefParameter\bin\Debug\Day20Project4RefParameter.exe
+D:\Day 20 Assignment By VInay Kudali\Day20Project4RefParameter\Day20Project4RefParameter\bin\Debug\Day20Project4RefParameter.pdb
+D:\Day 20 Assignment By VInay Kudali\Day20Project4RefParameter\Day20Project4RefParameter\obj\Debug\Day20Project4RefParameter.csproj.SuggestedBindingRedirects.cache
+D:\Day 20 Assignment By VInay Kudali\Day20Project4RefParameter\Day20Project4RefParameter\obj\Debug\Day20Project4RefParameter.csproj.CoreCompileInputs.cache
+D:\Day 20 Assignment By VInay Kudali\Day20Project4RefParameter\Day20Project4RefParameter\obj\Debug\Day20Project4RefParameter.exe
+D:\Day 20 Assignment By VInay Kudali\Day20Project4RefParameter\Day20Project4RefParameter\obj\Debug\Day20Project4RefParameter.pdb

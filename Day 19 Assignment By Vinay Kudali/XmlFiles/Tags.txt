@@ -1,0 +1,52 @@
+<products>
+   <product 1>
+       <ProductId>1234</ProductId>
+       <ProductName>Notebook</ProductName>
+       <ProductBrand>Classmate</ProductBrand>
+   <Product 1>
+   <product 2>
+       <ProductId>2341</ProductId>
+       <ProductName>Pen</ProductName>
+       <ProductBrand>Cello</ProductBrand>
+   <Product 2>
+   <product 3>
+       <ProductId>9876</ProductId>
+       <ProductName>Laptop</ProductName>
+       <ProductBrand>Msi</ProductBrand>
+   <Product 3>
+   <product 4>
+       <ProductId>1267</ProductId>
+       <ProductName>T.V</ProductName>
+       <ProductBrand>Onida</ProductBrand>
+   <Product 4>
+   <product 5>
+       <ProductId>8465</ProductId>
+       <ProductName>Choclate</ProductName>
+       <ProductBrand>DiaryMilk</ProductBrand>
+   <Product 5>
+   <product 6>
+       <ProductId>9867</ProductId>
+       <ProductName>Shirt</ProductName>
+       <ProductBrand>Netplay</ProductBrand>
+   <Product 6>
+   <product 7>
+       <ProductId>5678</ProductId>
+       <ProductName>Watch</ProductName>
+       <ProductBrand>Sonata</ProductBrand>
+   <Product 7>
+   <product 8>
+       <ProductId>4356</ProductId>
+       <ProductName>Mobile</ProductName>
+       <ProductBrand>Xiaomi</ProductBrand>
+   <Product 8>
+   <product 9>
+       <ProductId>4942</ProductId>
+       <ProductName>Mouse</ProductName>
+       <ProductBrand>Logitech</ProductBrand>
+   <Product 9>
+   <product 10>
+       <ProductId>4120</ProductId>
+       <ProductName>Spects</ProductName>
+       <ProductBrand>Lenskart</ProductBrand>
+   <Product 10>
+<products>
