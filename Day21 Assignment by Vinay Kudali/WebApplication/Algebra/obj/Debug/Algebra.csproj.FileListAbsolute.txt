@@ -1,0 +1,7 @@
+D:\NHTraining\Day21 Assignment by Vinay Kudali\WebApplication\Algebra\bin\Debug\Algebra.exe.config
+D:\NHTraining\Day21 Assignment by Vinay Kudali\WebApplication\Algebra\bin\Debug\Algebra.exe
+D:\NHTraining\Day21 Assignment by Vinay Kudali\WebApplication\Algebra\bin\Debug\Algebra.pdb
+D:\NHTraining\Day21 Assignment by Vinay Kudali\WebApplication\Algebra\obj\Debug\Algebra.csproj.SuggestedBindingRedirects.cache
+D:\NHTraining\Day21 Assignment by Vinay Kudali\WebApplication\Algebra\obj\Debug\Algebra.csproj.CoreCompileInputs.cache
+D:\NHTraining\Day21 Assignment by Vinay Kudali\WebApplication\Algebra\obj\Debug\Algebra.exe
+D:\NHTraining\Day21 Assignment by Vinay Kudali\WebApplication\Algebra\obj\Debug\Algebra.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b0cfe6a-29f1-4d39-ba06-643e240860f9": {
+      "ProjectGuid": "3b0cfe6a-29f1-4d39-ba06-643e240860f9",
+      "DisplayName": "WebApplication",
+      "ColorIndex": 0
+    },
+    "e8e9cb22-3e09-4a6b-974b-4156e4109b65": {
+      "ProjectGuid": "e8e9cb22-3e09-4a6b-974b-4156e4109b65",
+      "DisplayName": "Algebra",
+      "ColorIndex": 1
+    },
+    "460e63bb-e87d-48f4-ad44-0ce2b3faf692": {
+      "ProjectGuid": "460e63bb-e87d-48f4-ad44-0ce2b3faf692",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

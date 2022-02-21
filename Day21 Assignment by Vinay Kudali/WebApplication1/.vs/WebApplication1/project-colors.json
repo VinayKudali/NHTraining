@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "828ca39f-3d65-4b3b-8450-c6846b29d836": {
+      "ProjectGuid": "828ca39f-3d65-4b3b-8450-c6846b29d836",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 0
+    },
+    "b5181cc0-c8cc-45e0-bb27-41889b734d14": {
+      "ProjectGuid": "b5181cc0-c8cc-45e0-bb27-41889b734d14",
+      "DisplayName": "Mathematics",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

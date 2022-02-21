@@ -1,0 +1,8 @@
+D:\NHTraining\Day21 Assignment by Vinay Kudali\WebApplication1\Mathematics\bin\Debug\Mathematics.exe.config
+D:\NHTraining\Day21 Assignment by Vinay Kudali\WebApplication1\Mathematics\bin\Debug\Mathematics.exe
+D:\NHTraining\Day21 Assignment by Vinay Kudali\WebApplication1\Mathematics\bin\Debug\Mathematics.pdb
+D:\NHTraining\Day21 Assignment by Vinay Kudali\WebApplication1\Mathematics\obj\Debug\Mathematics.csproj.AssemblyReference.cache
+D:\NHTraining\Day21 Assignment by Vinay Kudali\WebApplication1\Mathematics\obj\Debug\Mathematics.csproj.SuggestedBindingRedirects.cache
+D:\NHTraining\Day21 Assignment by Vinay Kudali\WebApplication1\Mathematics\obj\Debug\Mathematics.csproj.CoreCompileInputs.cache
+D:\NHTraining\Day21 Assignment by Vinay Kudali\WebApplication1\Mathematics\obj\Debug\Mathematics.exe
+D:\NHTraining\Day21 Assignment by Vinay Kudali\WebApplication1\Mathematics\obj\Debug\Mathematics.pdb
