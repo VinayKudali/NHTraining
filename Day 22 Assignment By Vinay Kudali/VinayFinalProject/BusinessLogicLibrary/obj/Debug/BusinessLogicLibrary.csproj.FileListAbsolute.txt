@@ -1,0 +1,9 @@
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.dll
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.pdb
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\BusinessLogicLibrary\bin\Debug\DataAccessLibrary.dll
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\BusinessLogicLibrary\bin\Debug\DataAccessLibrary.pdb
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.AssemblyReference.cache
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CoreCompileInputs.cache
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CopyComplete
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.dll
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.pdb

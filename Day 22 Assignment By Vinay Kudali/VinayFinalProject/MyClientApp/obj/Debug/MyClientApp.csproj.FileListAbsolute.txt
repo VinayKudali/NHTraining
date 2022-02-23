@@ -1,0 +1,13 @@
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\MyClientApp\bin\Debug\MyClientApp.exe.config
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\MyClientApp\bin\Debug\MyClientApp.exe
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\MyClientApp\bin\Debug\MyClientApp.pdb
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\MyClientApp\bin\Debug\BusinessLogicLibrary.dll
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\MyClientApp\bin\Debug\DataAccessLibrary.dll
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\MyClientApp\bin\Debug\BusinessLogicLibrary.pdb
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\MyClientApp\bin\Debug\DataAccessLibrary.pdb
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.AssemblyReference.cache
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.SuggestedBindingRedirects.cache
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.CoreCompileInputs.cache
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.CopyComplete
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\MyClientApp\obj\Debug\MyClientApp.exe
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\MyClientApp\obj\Debug\MyClientApp.pdb

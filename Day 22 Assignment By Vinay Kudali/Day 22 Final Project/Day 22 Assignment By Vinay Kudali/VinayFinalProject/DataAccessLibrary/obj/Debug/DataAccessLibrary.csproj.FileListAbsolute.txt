@@ -1,0 +1,12 @@
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+D:\NHTraining\Day 22 Assignment By Vinay Kudali\VinayFinalProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\91832\Desktop\Vinay Final Project\Day 22 Assignment By Vinay Kudali\VinayFinalProject\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\91832\Desktop\Vinay Final Project\Day 22 Assignment By Vinay Kudali\VinayFinalProject\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\91832\Desktop\Vinay Final Project\Day 22 Assignment By Vinay Kudali\VinayFinalProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\91832\Desktop\Vinay Final Project\Day 22 Assignment By Vinay Kudali\VinayFinalProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\91832\Desktop\Vinay Final Project\Day 22 Assignment By Vinay Kudali\VinayFinalProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\91832\Desktop\Vinay Final Project\Day 22 Assignment By Vinay Kudali\VinayFinalProject\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb

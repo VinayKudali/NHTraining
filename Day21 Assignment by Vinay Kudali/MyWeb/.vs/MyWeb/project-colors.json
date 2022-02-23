@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "64db605a-da7d-4a86-95a0-3f725bf8ab2a": {
+      "ProjectGuid": "64db605a-da7d-4a86-95a0-3f725bf8ab2a",
+      "DisplayName": "MyWeb",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

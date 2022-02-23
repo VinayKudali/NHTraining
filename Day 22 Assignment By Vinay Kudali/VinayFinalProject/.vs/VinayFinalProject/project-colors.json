@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ae305db9-847c-433a-acf4-ebbf639ad449": {
+      "ProjectGuid": "ae305db9-847c-433a-acf4-ebbf639ad449",
+      "DisplayName": "VinayFinalProject",
+      "ColorIndex": 0
+    },
+    "42822f1d-0115-4937-9448-3b1ea5e06d1f": {
+      "ProjectGuid": "42822f1d-0115-4937-9448-3b1ea5e06d1f",
+      "DisplayName": "BusinessLogicLibrary",
+      "ColorIndex": 1
+    },
+    "68c8348e-7aee-4492-b2bc-38572fa48ce1": {
+      "ProjectGuid": "68c8348e-7aee-4492-b2bc-38572fa48ce1",
+      "DisplayName": "DataAccessLibrary",
+      "ColorIndex": 2
+    },
+    "b43cbb60-c5c8-404f-9dad-1b819f805bb2": {
+      "ProjectGuid": "b43cbb60-c5c8-404f-9dad-1b819f805bb2",
+      "DisplayName": "MyClientApp",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
